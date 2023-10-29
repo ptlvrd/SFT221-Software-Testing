@@ -1,0 +1,4 @@
+﻿  sftws3.c
+C:\Users\saumi\OneDrive\Desktop\vrunda\courses\sft211\sftws3\sftws3\sftws3.c(178,29): warning C4028: formal parameter 1 different from declaration
+C:\Users\saumi\OneDrive\Desktop\vrunda\courses\sft211\sftws3\sftws3\sftws3.c(179,30): warning C4090: 'function': different 'const' qualifiers
+  sftws3.vcxproj -> C:\Users\saumi\OneDrive\Desktop\vrunda\courses\sft211\sftws3\x64\Debug\sftws3.exe
