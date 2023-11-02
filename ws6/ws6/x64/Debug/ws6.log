@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\saumi\Desktop\vrunda\courses\sft211\ws6\ws6\main.c(47,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saumi\Desktop\vrunda\courses\sft211\ws6\ws6\main.c(74,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ws6.vcxproj -> C:\Users\saumi\Desktop\vrunda\courses\sft211\ws6\x64\Debug\ws6.exe
